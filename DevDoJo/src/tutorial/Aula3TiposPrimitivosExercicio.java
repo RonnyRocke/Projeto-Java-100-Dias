@@ -9,7 +9,7 @@ public class Aula3TiposPrimitivosExercicio {
     String nome;
     String endereco;
     String date;
-    int salario;
+    double salario;
 
     public static void main (String[] args){
 
