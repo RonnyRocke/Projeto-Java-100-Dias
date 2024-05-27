@@ -1,6 +1,6 @@
 package tutorial;
 
-public class Aula04Operadores {
+public class Aula04OperadoresAritmeticos {
     int numero1 = 2; // adição 2+4 = 6
     double numero2 = 4; // adição
 
@@ -20,7 +20,7 @@ public class Aula04Operadores {
 
     public static void main(String[] args) {
 
-        Aula04Operadores AO = new Aula04Operadores();
+        Aula04Operadores AO = new Aula04OperadoresAritmeticos();
         AO.resultadoadicao = AO.numero1 + AO.numero2; // SOMANDO
         AO.resultadoadicao2 = AO.numero3 - AO.numero4; // SUBTRAINDO
         AO.resultadoadicao3 = AO.numero5 * AO.numero6; // MULTIPLICANDO
