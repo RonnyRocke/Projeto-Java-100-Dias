@@ -6,3 +6,13 @@
 
 27/05/24: Aula 4 - Operadores Aritméticos em Java:
 Hoje mergulhamos nos operadores aritméticos em Java, como +, -, *, e /. Um ponto crucial que aprendi é que ao concatenar inteiros com inteiros, o resultado desses dois inteiros será sempre um inteiro. Isso é importante lembrar ao lidar com expressões numéricas em Java durante os próximos 286 dias do projeto.
+
+27/05/24 AULA 5: OPERADORES RELACIONAIS E BOOLEANOS:
+Aprendi sobre operadores relacionais e booleanos em Java. Eles permitem comparar valores e determinar se são iguais, diferentes, maiores, menores, maiores ou iguais, ou menores ou iguais. Entendi como usar esses operadores para fazer comparações e obter resultados booleanos, indicando se as condições são verdadeiras ou falsas.
+
+27/05/24 AULA 5 CONTINUAÇÃO: OPERADORES RELACIONAIS RESTO 
+
+Nesta aula, aprendi sobre o operador de resto (%) em Java. Este operador calcula o resto da divisão entre dois números. No código fornecido, foram declaradas várias variáveis inteiras e de ponto flutuante, e em seguida, os operadores de resto foram aplicados a algumas delas. Os resultados foram impressos na tela, demonstrando como o operador de resto funciona em diferentes cenários de divisão.
+
+
+
