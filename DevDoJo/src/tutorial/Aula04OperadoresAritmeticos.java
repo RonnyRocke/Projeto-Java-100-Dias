@@ -20,7 +20,7 @@ public class Aula04OperadoresAritmeticos {
 
     public static void main(String[] args) {
 
-        Aula04Operadores AO = new Aula04OperadoresAritmeticos();
+        Aula04OperadoresAritmeticos AO = new Aula04OperadoresAritmeticos();
         AO.resultadoadicao = AO.numero1 + AO.numero2; // SOMANDO
         AO.resultadoadicao2 = AO.numero3 - AO.numero4; // SUBTRAINDO
         AO.resultadoadicao3 = AO.numero5 * AO.numero6; // MULTIPLICANDO
