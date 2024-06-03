@@ -25,3 +25,8 @@ Aprendi sobre operadores relacionais e booleanos em Java. Eles permitem comparar
 27/05/24 AULA 5 CONTINUAÇÃO: OPERADORES RELACIONAIS RESTO 
 Nesta aula, aprendi sobre o operador de resto (%) em Java. Este operador calcula o resto da divisão entre dois números. No código fornecido, foram declaradas várias variáveis inteiras e de ponto flutuante, e em seguida, os operadores de resto foram aplicados a algumas delas. Os resultados foram impressos na tela, demonstrando como o operador de resto funciona em diferentes cenários de divisão.
 
+03/06/24 AULA 06: OPERADORES LÓGICOS
+Nesta aula, exploramos os operadores lógicos em Java, especificamente os operadores && (AND) e || (OR). Esses operadores são cruciais para avaliar expressões booleanas e tomar decisões com base nessas avaliações.
+
+
+
