@@ -42,12 +42,12 @@ Java 286 Dias 🚀
 
 
 
-    04/06/24 - AULA07: CRIANDO PRIMEIRO PROGRAMA SEM CONSULTA 04/06/24:
+    04/06/24 - AULA 07: CRIANDO PRIMEIRO PROGRAMA SEM CONSULTA 04/06/24:
     Desenvolvi um programa em Java para verificar se tenho saldo suficiente para comprar um PS5. Aprendi a declarar variáveis, somar saldos de contas e usar estruturas condicionais para determinar a       viabilidade da compra. Foi uma prática excelente para reforçar conceitos básicos de programação.
 
 
 
-    13/06/24 - ESTRUTURAS CONDICIONAIS
+    13/06/24 - AULA 08: ESTRUTURAS CONDICIONAIS
     Estudei sobre estruturas condicionais do canal DevDojo e fiz este programa. O código em Java utiliza a estrutura switch para determinar qual mensagem exibir com base na entrada do usuário.
 
     
