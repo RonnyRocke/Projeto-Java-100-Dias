@@ -45,6 +45,25 @@ Java 286 Dias 🚀
     04/06/24 - AULA 07: CRIANDO PRIMEIRO PROGRAMA SEM CONSULTA 04/06/24:
     Desenvolvi um programa em Java para verificar se tenho saldo suficiente para comprar um PS5. Aprendi a declarar variáveis, somar saldos de contas e usar estruturas condicionais para determinar a       viabilidade da compra. Foi uma prática excelente para reforçar conceitos básicos de programação.
 
+    06/06/24 - AULA 08: EXERCICÍOS
+    Criei um programa em Java chamado "DescobrindoAPorcetagem" que calcula porcentagens específicas de valores fixos. O programa calcula 30% de 2000, 20% de 600 e 15% de 1500, exibindo os resultados 
+    no console. Esse exercício me ajudou a praticar operações matemáticas básicas em Java e a estruturar um programa simples.
+
+    09/06/24 - AULA 09: EXERCICÍOS
+    Desenvolvi um programa em Java chamado "EBonitoOuFeio" que utiliza entrada do usuário para determinar se um nome é considerado "bonito" ou "feio". O usuário insere seu nome, e o programa verifica 
+    se o nome está na lista de nomes considerados bonitos. Se o nome estiver na lista, o programa exibe uma mensagem positiva, caso contrário, exibe uma mensagem negativa. Esse projeto me permitiu 
+    trabalhar com entradas de usuário e estruturas de controle de fluxo como `switch`.
+
+
+    15/06/24 - AULA 10: EXERCICÍOS
+    Criei um programa em Java chamado "Quantoeutenho" que ajuda o usuário a calcular se ele tem dinheiro suficiente para comprar um PS5. O programa solicita ao usuário que insira seu nome, idade,     
+    saldo da conta corrente e saldo da poupança. Com base nesses dados, o programa calcula o total disponível e verifica se é suficiente para comprar um PS5. Se for, exibe uma mensagem positiva; se 
+    não for, informa quanto falta. Esse projeto foi útil para praticar entradas de usuário, cálculos e estruturas condicionais.
+
+
+
+    
+
 
 
     13/06/24 - AULA 08: ESTRUTURAS CONDICIONAIS
